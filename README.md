@@ -17,3 +17,4 @@ Aqui puedes encontrar el diseño de nuestra pagina web principal la cual utiliza
 * Sebastian Roa Meneses
 * Juan Diego Bautista V.
 * Juan Edison Giraldo Zuluaga
+* Andres Felipe Peña Ramirez
